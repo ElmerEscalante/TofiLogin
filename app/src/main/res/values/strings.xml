@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="title_login">MyLoginScreen</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_catalogo">Catálogo</string>
+    <string name="title_coleccionables">Coleccionables</string>
+    <string name="title_medallas">Medallas</string>
+    <string name="title_credit_card">Buscar</string>
+    <string name="title_notifications">Biblioteca</string>
+    <string name="title_actividades">Actividades</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="pronunciacion">Pronunciacion</string>
+    <string name="deletreo">Deletreo</string>
+    <string name="principito">Principito</string>
+    <string name="dumbo">Dumbo</string>
+    <string name="title_fantasia">Fantasia</string>
+    <string name="historias">Historias</string>
+
+    <string name="all">TODO</string>
+    <string name="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio quas illo eaque maiores reprehenderit, molestiae aliquid reiciendis natus.</string>
+    <string name="subtitle">Lorem ipsum dolor sit consectur.</string>
+
+
+
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="prompt_user">User</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="email">Correo electronico</string>
+</resources>
