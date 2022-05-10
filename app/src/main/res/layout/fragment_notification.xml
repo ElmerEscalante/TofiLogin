@@ -40,7 +40,6 @@
             android:layout_height="40dp"
             android:layout_weight="0"
             android:contentDescription="@string/all"
-            app:srcCompat="@drawable/ic_menu"
             tools:ignore="ImageContrastCheck" />
     </LinearLayout>
 
